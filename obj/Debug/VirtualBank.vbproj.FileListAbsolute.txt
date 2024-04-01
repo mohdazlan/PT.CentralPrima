@@ -1,0 +1,16 @@
+C:\Users\X1 CARBON\source\repos\VirtualBank\VirtualBank\obj\Debug\VirtualBank.vbproj.AssemblyReference.cache
+C:\Users\X1 CARBON\source\repos\VirtualBank\VirtualBank\obj\Debug\VirtualBank.frmLogin.resources
+C:\Users\X1 CARBON\source\repos\VirtualBank\VirtualBank\obj\Debug\VirtualBank.Resources.resources
+C:\Users\X1 CARBON\source\repos\VirtualBank\VirtualBank\obj\Debug\VirtualBank.vbproj.GenerateResource.cache
+C:\Users\X1 CARBON\source\repos\VirtualBank\VirtualBank\obj\Debug\VirtualBank.vbproj.CoreCompileInputs.cache
+C:\Users\X1 CARBON\source\repos\VirtualBank\VirtualBank\bin\Debug\VirtualBank.exe.config
+C:\Users\X1 CARBON\source\repos\VirtualBank\VirtualBank\bin\Debug\VirtualBank.exe
+C:\Users\X1 CARBON\source\repos\VirtualBank\VirtualBank\bin\Debug\VirtualBank.pdb
+C:\Users\X1 CARBON\source\repos\VirtualBank\VirtualBank\bin\Debug\VirtualBank.xml
+C:\Users\X1 CARBON\source\repos\VirtualBank\VirtualBank\obj\Debug\VirtualBank.exe
+C:\Users\X1 CARBON\source\repos\VirtualBank\VirtualBank\obj\Debug\VirtualBank.xml
+C:\Users\X1 CARBON\source\repos\VirtualBank\VirtualBank\obj\Debug\VirtualBank.pdb
+C:\Users\X1 CARBON\source\repos\VirtualBank\VirtualBank\obj\Debug\VirtualBank.frmHome.resources
+C:\Users\X1 CARBON\source\repos\VirtualBank\VirtualBank\bin\Debug\libSkiaSharp.dylib
+C:\Users\X1 CARBON\source\repos\VirtualBank\VirtualBank\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\X1 CARBON\source\repos\VirtualBank\VirtualBank\obj\Debug\VirtualB.8DD48DF1.Up2Date
